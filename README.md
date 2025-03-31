@@ -1,5 +1,5 @@
-#  Automatização de Certificados - WIE
+#  Automation of Certificates - WIE
 
-**Versão 01**
+**Version 01**
 
-Criado em Python, para automatizar a construção de certificados para os eventos do WIE - UFPB, atualmente em construção do front-end e disparo automatico via email. 
+Created in Python, to automate the construction of certificates for the WIE - UFPB events, currently building the front-end and automatic triggering via email.
